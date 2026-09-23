@@ -1,0 +1,36 @@
+running develop
+running egg_info
+creating nav_pkg2.egg-info
+writing nav_pkg2.egg-info/PKG-INFO
+writing dependency_links to nav_pkg2.egg-info/dependency_links.txt
+writing entry points to nav_pkg2.egg-info/entry_points.txt
+writing requirements to nav_pkg2.egg-info/requires.txt
+writing top-level names to nav_pkg2.egg-info/top_level.txt
+writing manifest file 'nav_pkg2.egg-info/SOURCES.txt'
+reading manifest file 'nav_pkg2.egg-info/SOURCES.txt'
+writing manifest file 'nav_pkg2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav-pkg2.egg-link (link to .)
+Installing nav_go1 script to /home/yujun/nav2ws1/install/nav_pkg2/lib/nav_pkg2
+Installing nav_way1 script to /home/yujun/nav2ws1/install/nav_pkg2/lib/nav_pkg2
+
+Installed /home/yujun/nav2ws1/build/nav_pkg2
+running symlink_data
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/ament_index
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/ament_index/resource_index
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/ament_index/resource_index/packages
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/resource/nav_pkg2 -> /home/yujun/nav2ws1/install/nav_pkg2/share/ament_index/resource_index/packages
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/package.xml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/launch
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/launch/sim2.launch.py -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/launch
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/description
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/description/mobile_robot1.urdf.xacro -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/description
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/worlds
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/worlds/simple_room.world -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/worlds
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/maps/simple_room.pgm -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/maps/tb2_world.pgm -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/maps/simple_room.yaml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+symbolically linking /home/yujun/nav2ws1/build/nav_pkg2/maps/tb2_world.yaml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/config
+creating /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/rviz

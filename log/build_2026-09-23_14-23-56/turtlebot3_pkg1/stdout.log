@@ -1,0 +1,28 @@
+running develop
+Removing /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3-pkg1.egg-link (link to .)
+running egg_info
+writing ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/top_level.txt
+reading manifest file '../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/yujun/nav2ws1/build/turtlebot3_pkg1/build
+creating /home/yujun/nav2ws1/build/turtlebot3_pkg1/build/lib
+creating /home/yujun/nav2ws1/build/turtlebot3_pkg1/build/lib/turtlebot3_pkg1
+copying turtlebot3_pkg1/__init__.py -> /home/yujun/nav2ws1/build/turtlebot3_pkg1/build/lib/turtlebot3_pkg1
+running install
+running install_lib
+creating /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3_pkg1
+copying /home/yujun/nav2ws1/build/turtlebot3_pkg1/build/lib/turtlebot3_pkg1/__init__.py -> /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3_pkg1
+byte-compiling /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3_pkg1/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/turtlebot3_pkg1 -> /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/ament_index/resource_index/packages
+copying package.xml -> /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/turtlebot3_pkg1
+running install_egg_info
+Copying ../../build/turtlebot3_pkg1/turtlebot3_pkg1.egg-info to /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3_pkg1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/yujun/nav2ws1/build/turtlebot3_pkg1/install.log'

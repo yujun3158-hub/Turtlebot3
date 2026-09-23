@@ -1,0 +1,1 @@
+/home/yujun/nav2ws1/src/nav_pkg2/launch/sim2.launch.py

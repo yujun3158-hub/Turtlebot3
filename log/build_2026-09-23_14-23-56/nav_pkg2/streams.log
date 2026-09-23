@@ -1,0 +1,47 @@
+[0.608s] Invoking command in '/home/yujun/nav2ws1/build/nav_pkg2': PYTHONPATH=/home/yujun/nav2ws1/build/nav_pkg2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yujun/nav2ws1/build/nav_pkg2/build
+[0.784s] running develop
+[0.903s] Removing /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav-pkg2.egg-link (link to .)
+[0.923s] Invoked command in '/home/yujun/nav2ws1/build/nav_pkg2' returned '0': PYTHONPATH=/home/yujun/nav2ws1/build/nav_pkg2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/yujun/nav2ws1/build/nav_pkg2/build
+[0.924s] Invoking command in '/home/yujun/nav2ws1/src/nav_pkg2': PYTHONPATH=/home/yujun/nav2ws1/build/nav_pkg2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nav_pkg2 build --build-base /home/yujun/nav2ws1/build/nav_pkg2/build install --record /home/yujun/nav2ws1/build/nav_pkg2/install.log --install-scripts $base/lib/nav_pkg2 --single-version-externally-managed install_data --force
+[1.092s] running egg_info
+[1.092s] writing ../../build/nav_pkg2/nav_pkg2.egg-info/PKG-INFO
+[1.092s] writing dependency_links to ../../build/nav_pkg2/nav_pkg2.egg-info/dependency_links.txt
+[1.092s] writing entry points to ../../build/nav_pkg2/nav_pkg2.egg-info/entry_points.txt
+[1.092s] writing requirements to ../../build/nav_pkg2/nav_pkg2.egg-info/requires.txt
+[1.092s] writing top-level names to ../../build/nav_pkg2/nav_pkg2.egg-info/top_level.txt
+[1.093s] reading manifest file '../../build/nav_pkg2/nav_pkg2.egg-info/SOURCES.txt'
+[1.094s] writing manifest file '../../build/nav_pkg2/nav_pkg2.egg-info/SOURCES.txt'
+[1.094s] running build
+[1.094s] running build_py
+[1.094s] creating /home/yujun/nav2ws1/build/nav_pkg2/build
+[1.094s] creating /home/yujun/nav2ws1/build/nav_pkg2/build/lib
+[1.094s] creating /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2
+[1.094s] copying nav_pkg2/nav_go1.py -> /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2
+[1.100s] copying nav_pkg2/nav_way1.py -> /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2
+[1.100s] copying nav_pkg2/__init__.py -> /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2
+[1.101s] running install
+[1.101s] running install_lib
+[1.101s] creating /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2
+[1.101s] copying /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2/nav_go1.py -> /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2
+[1.102s] copying /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2/nav_way1.py -> /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2
+[1.102s] copying /home/yujun/nav2ws1/build/nav_pkg2/build/lib/nav_pkg2/__init__.py -> /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2
+[1.102s] byte-compiling /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2/nav_go1.py to nav_go1.cpython-310.pyc
+[1.102s] byte-compiling /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2/nav_way1.py to nav_way1.cpython-310.pyc
+[1.102s] byte-compiling /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2/__init__.py to __init__.cpython-310.pyc
+[1.102s] running install_data
+[1.103s] copying resource/nav_pkg2 -> /home/yujun/nav2ws1/install/nav_pkg2/share/ament_index/resource_index/packages
+[1.103s] copying package.xml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2
+[1.103s] copying launch/sim2.launch.py -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/launch
+[1.103s] copying description/mobile_robot1.urdf.xacro -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/description
+[1.103s] copying worlds/simple_room.world -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/worlds
+[1.104s] copying maps/simple_room.pgm -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+[1.104s] copying maps/tb2_world.pgm -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+[1.104s] copying maps/simple_room.yaml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+[1.105s] copying maps/tb2_world.yaml -> /home/yujun/nav2ws1/install/nav_pkg2/share/nav_pkg2/maps
+[1.105s] running install_egg_info
+[1.106s] Copying ../../build/nav_pkg2/nav_pkg2.egg-info to /home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages/nav_pkg2-0.0.0-py3.10.egg-info
+[1.107s] running install_scripts
+[1.121s] Installing nav_go1 script to /home/yujun/nav2ws1/install/nav_pkg2/lib/nav_pkg2
+[1.121s] Installing nav_way1 script to /home/yujun/nav2ws1/install/nav_pkg2/lib/nav_pkg2
+[1.122s] writing list of installed files to '/home/yujun/nav2ws1/build/nav_pkg2/install.log'
+[1.145s] Invoked command in '/home/yujun/nav2ws1/src/nav_pkg2' returned '0': PYTHONPATH=/home/yujun/nav2ws1/build/nav_pkg2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yujun/nav2ws1/install/nav_pkg2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/nav_pkg2 build --build-base /home/yujun/nav2ws1/build/nav_pkg2/build install --record /home/yujun/nav2ws1/build/nav_pkg2/install.log --install-scripts $base/lib/nav_pkg2 --single-version-externally-managed install_data --force

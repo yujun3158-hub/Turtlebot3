@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating turtlebot3_pkg1.egg-info
+writing turtlebot3_pkg1.egg-info/PKG-INFO
+writing dependency_links to turtlebot3_pkg1.egg-info/dependency_links.txt
+writing entry points to turtlebot3_pkg1.egg-info/entry_points.txt
+writing requirements to turtlebot3_pkg1.egg-info/requires.txt
+writing top-level names to turtlebot3_pkg1.egg-info/top_level.txt
+writing manifest file 'turtlebot3_pkg1.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot3_pkg1.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot3_pkg1.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yujun/nav2ws1/install/turtlebot3_pkg1/lib/python3.10/site-packages/turtlebot3-pkg1.egg-link (link to .)
+
+Installed /home/yujun/nav2ws1/build/turtlebot3_pkg1
+running symlink_data
+creating /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/ament_index
+creating /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/ament_index/resource_index
+creating /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/ament_index/resource_index/packages
+symbolically linking /home/yujun/nav2ws1/build/turtlebot3_pkg1/resource/turtlebot3_pkg1 -> /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/ament_index/resource_index/packages
+symbolically linking /home/yujun/nav2ws1/build/turtlebot3_pkg1/package.xml -> /home/yujun/nav2ws1/install/turtlebot3_pkg1/share/turtlebot3_pkg1
